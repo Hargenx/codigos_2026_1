@@ -1,0 +1,9 @@
+função busca-dup(x)
+
+    ultimo := ptlista^.ant
+    se x <= ultimo^.chave então
+        pont := ptlista^.post
+        enquanto pont^.chave < x faça
+            pont := pont^.post
+        busca-dup := pont
+    senão busca-dup := ptlista

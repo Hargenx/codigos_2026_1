@@ -1,0 +1,9 @@
+CompileFlags:
+  Add:
+    - --target=x86_64-w64-windows-gnu
+    - -IC:/MinGW/include/c++/11.2.0
+    - -IC:/MinGW/include/c++/11.2.0/x86_64-w64-mingw32
+    - -IC:/MinGW/include/c++/11.2.0/backward
+    - -IC:/MinGW/lib/gcc/x86_64-w64-mingw32/11.2.0/include
+    - -IC:/MinGW/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed
+    - -IC:/MinGW/x86_64-w64-mingw32/include
