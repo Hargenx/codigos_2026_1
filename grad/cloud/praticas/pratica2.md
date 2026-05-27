@@ -270,7 +270,7 @@ Qual cuidado de segurança o grupo adotou?
 
 ---
 
-## Comparação com os provedores de nuvem
+## Comparação com os provedores de nuvem - valor usando a calculadora
 
 | Função         | Azure | AWS | Google Cloud |
 | -------------- | ----- | --- | ------------ |
